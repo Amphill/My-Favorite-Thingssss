@@ -1,0 +1,49 @@
+<html>
+<h1>
+These are my favorite things
+</h1>
+<body>
+<h2>
+They include 
+<a href="My Movies.html">movies</a>,
+<a href="My Foods.html">foods</a>,
+<a href="My Shows.html">shows</a>,and
+<a href="My Music.html">music</a>.
+</h2>
+<h3>
+My Movies
+</h3>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=1UW9Zks5L2A">Bridesmaids</a></li>
+<li><a href="https://www.youtube.com/watch?v=jOLqNOfzus4">Limitless</a></li>
+<li><a href="https://www.youtube.com/watch?v=d3R4rxv33sg">Kevin Hart:What Now?</a></li>
+</ol>
+<h3>
+My Foods
+</h3>
+<ol>
+<li><a href="http://www.kingsandqueenspizza.com/admin/laravel_code/storage/app/public/category/image/0vmGuQdHheKk0sYRQRg9icRhN038aVxdLa30fZnG.jpeg">Pizza</a></li>
+<li><a href="http://i2.cdn.turner.com/money/dam/assets/171026100828-buffalo-wild-wings-780x439.jpg">Chicken Wings</a></li>
+<li><a href="https://www.falafelshop.com/wp-content/uploads/2016/09/sandwich_good2go-1024x685.jpg">Falafel</a></li>
+</ol>
+<h3>
+My Shows
+</h3>
+<ol>
+<li><a href="http://steven-universe.wikia.com/wiki/Steven_Universe_Wiki">Steven Universe</a></li>
+<li><a href="http://gameofthrones.wikia.com/wiki/Game_of_Thrones_Wiki">Game Of Thrones</a></li>
+<li><a href="http://onepiece.wikia.com/wiki/One_Piece_Wiki">One Piece</a></li>
+</ol>
+<h3>
+My music
+</h3>
+<ol>
+<li>
+<a href="https://soundcloud.com/janelle-monae/sets/the-electric-lady-1">The Electric Lady by Janelle Monae</a></li>
+<li><a href="https://soundcloud.com/dnceofficial/sets/dnce-12">DNCE by DNCE</a>
+</li>
+<li><a href="https://soundcloud.com/panicatthedisco/sets/death-of-a-bachelor-2">Death of a Bachelor by Panic! at the Disco</a>
+</li>
+</ol>
+</body>
+</html>
